@@ -2,6 +2,7 @@
     margin: 40px auto ;
     max-width: 1400px;
     width: 80%;
+    height:auto;
     display: grid;
     grid-template-columns: repeat(auto-fill, 300px);
     gap: 15px;
